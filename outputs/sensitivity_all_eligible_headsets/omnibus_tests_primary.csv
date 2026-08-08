@@ -1,0 +1,6 @@
+outcome,label,section,role,test,n_total,n_fixed,n_performance,n_skill_specific,statistic,df_num,df_den,p_raw,effect_size,effect_size_name,error,p_holm,p_for_decision,significant
+hard_expert_pattern_pct,"Hard/Expert patterns, %",pacing,primary,welch,34,9,12,13,12.916399205306572,2.0,19.460360123058354,0.0002692617482493505,0.37356056693983397,eta_squared,,0.0013463087412467526,0.0013463087412467526,True
+normalized_target_score_pct,"Normalized target score, %",performance,primary,welch,34,9,12,13,8.30396431541519,2.0,18.246249930156537,0.0027268471277210084,0.24867546746127744,eta_squared,,0.010907388510884033,0.010907388510884033,True
+wall_contact_pct,Wall-contact percentage,performance,primary,welch,34,9,12,13,1.8675673250587181,2.0,17.806047383747913,0.18352789404567157,0.08478225361526708,eta_squared,,0.5505836821370147,0.5505836821370147,False
+difficulty_deviation,Difficulty deviation,ratings,primary,kruskal,34,9,12,13,1.818283366206455,2.0,,0.40286986569030164,0.0,epsilon_squared,,0.5505836821370147,0.5505836821370147,False
+enjoyment_rating,Enjoyment,ratings,primary,kruskal,34,9,12,13,3.336601307189551,2.0,,0.18856723457495134,0.04311617119966294,epsilon_squared,,0.5505836821370147,0.5505836821370147,False

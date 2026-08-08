@@ -1,0 +1,7 @@
+screening_category,description,n
+researcher_staff_demo_or_informal,"Researcher, staff, demonstration, or informal session",4
+interrupted_or_incomplete,Interrupted or incomplete session,0
+duplicate_or_invalid_record,Duplicate or invalid record,0
+other_ineligible,Other ineligible record,0
+eligible_meta_quest_2,Otherwise eligible Meta Quest 2 session,0
+included,Included in all-eligible-headset sensitivity analysis,34

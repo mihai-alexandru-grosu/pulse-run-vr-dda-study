@@ -1,0 +1,8 @@
+severity,record_key,run_id,participant_id,field,issue,observed,expected
+warning,analytics_full_set1.json:1,R-20260718-072012-651DB08D,P-20260718-071947-B6CEE588,age,above expected recruitment range; verify session identity,35.0,<= 23
+warning,analytics_full_set1.json:3,R-20260719-074245-6E61F985,P-20260719-074220-FC0DD36B,age,above expected recruitment range; verify session identity,24.0,<= 23
+warning,analytics_full_set1.json:4,R-20260719-083650-1A00CDAC,P-20260719-083625-4DB4FA11,age,above expected recruitment range; verify session identity,36.0,<= 23
+warning,analytics_full_set1.json:16,R-20260803-204306-D213B70C,P-20260803-204241-8C9922A3,age,above expected recruitment range; verify session identity,24.0,<= 23
+warning,analytics_full_set1.json:19,R-20260804-075724-00D9EA4C,P-20260804-075659-B3AAD3E3,age,above expected recruitment range; verify session identity,26.0,<= 23
+warning,analytics_full_set1.json:24,R-20260719-090312-64B30C1F,P-20260719-090247-DB58EA14,age,above expected recruitment range; verify session identity,32.0,<= 23
+warning,analytics_full_set1.json:32,R-20260718-112557-9DE59B9C,P-20260718-112531-A13A6532,age,above expected recruitment range; verify session identity,35.0,<= 23

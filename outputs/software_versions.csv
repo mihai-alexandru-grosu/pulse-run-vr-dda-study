@@ -1,0 +1,6 @@
+software,version
+Python,3.12.10
+numpy,2.5.1
+pandas,2.3.3
+scipy,1.18.0
+matplotlib,3.11.1

@@ -1,0 +1,3 @@
+# Section 4.1 sample text (FINAL)
+
+A total of 38 saved runs were exported from the headsets. Of these, 0 were excluded as interrupted or incomplete sessions, 4 as researcher, staff, demonstration, or informal sessions, 0 as duplicate or invalid records, 0 for other eligibility reasons, and 6 as otherwise eligible Meta Quest 2 sessions. The final analysis included 28 participants: 7 assigned to Fixed Time-Based Progression, 10 to Performance-Based DDA, and 11 to Skill-Specific DDA. Post-run difficulty, enjoyment, and frustration responses were available for 28 participants. Participant characteristics by progression strategy are presented in Table 4.

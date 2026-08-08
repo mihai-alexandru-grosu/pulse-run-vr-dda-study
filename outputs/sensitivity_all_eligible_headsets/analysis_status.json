@@ -1,0 +1,30 @@
+{
+  "analysis_status": "FINAL",
+  "analysis_type": "sensitivity_all_eligible_headsets",
+  "raw_records": 38,
+  "analyzed_sessions": 34,
+  "group_sizes": {
+    "Fixed Time-Based": 9,
+    "Performance-Based DDA": 12,
+    "Skill-Specific DDA": 13
+  },
+  "included_headsets": [
+    "Meta Quest 3",
+    "Meta Quest 2"
+  ],
+  "headset_counts": {
+    "Meta Quest 3": 28,
+    "Meta Quest 2": 6
+  },
+  "complete_post_run_responses": 34,
+  "unresolved_review_records": 0,
+  "unresolved_run_ids": [],
+  "nonestimable_primary_tests": [],
+  "primary_outcomes": [
+    "normalized_target_score_pct",
+    "wall_contact_pct",
+    "hard_expert_pattern_pct",
+    "difficulty_deviation",
+    "enjoyment_rating"
+  ]
+}

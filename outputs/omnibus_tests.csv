@@ -1,0 +1,14 @@
+outcome,label,section,role,test,n_total,n_fixed,n_performance,n_skill_specific,statistic,df_num,df_den,p_raw,effect_size,effect_size_name,error,p_holm,p_for_decision,significant
+hard_expert_pattern_pct,"Hard/Expert patterns, %",pacing,primary,welch,28,7,10,11,8.073172036110973,2.0,15.324921850885332,0.004030498738803322,0.3272287731055266,eta_squared,,0.02015249369401661,0.02015249369401661,True
+total_patterns_spawned,Total patterns spawned,pacing,secondary,welch,28,7,10,11,1.2343153468827488,2.0,11.785416816574367,0.3260633836627917,0.007873428634674332,eta_squared,,,0.3260633836627917,False
+resolved_targets,Resolved targets,pacing,secondary,welch,28,7,10,11,5.091643714357052,2.0,13.645018880567248,0.022291567563413106,0.11212322710409636,eta_squared,,,0.022291567563413106,True
+normalized_target_score_pct,"Normalized target score, %",performance,primary,welch,28,7,10,11,4.200919337642528,2.0,12.058088343796022,0.04126453932564539,0.1569216244573668,eta_squared,,0.16505815730258155,0.16505815730258155,False
+wall_contact_pct,Wall-contact percentage,performance,primary,welch,28,7,10,11,1.7071320803644883,2.0,13.57764670073236,0.21809631428192322,0.09798748372355584,eta_squared,,0.5956860561503245,0.5956860561503245,False
+final_score,Final score,performance,secondary,welch,28,7,10,11,0.32174633175627815,2.0,15.9865872192788,0.7294681701630661,0.019629849570673846,eta_squared,,,0.7294681701630661,False
+target_hit_rate_pct,"Target hit rate, %",performance,secondary,welch,28,7,10,11,0.46134058482385504,2.0,12.392269879063926,0.640841364979413,0.01946369390904534,eta_squared,,,0.640841364979413,False
+shot_accuracy_pct,"Shot accuracy, %",performance,secondary,welch,28,7,10,11,1.7068985433545207,2.0,15.360067225126484,0.21409374697120817,0.13384374742214722,eta_squared,,,0.21409374697120817,False
+color_match_rate_pct,"Color-match rate, %",performance,secondary,welch,28,7,10,11,2.8896329463399764,2.0,13.90334503029493,0.0892384116947841,0.20944612250078096,eta_squared,,,0.0892384116947841,False
+zero_stability_pct,Zero-stability percentage,performance,secondary,kruskal,28,7,10,11,2.1649769585253353,2.0,,0.3387514998276031,0.006599078341013413,epsilon_squared,,,0.3387514998276031,False
+difficulty_deviation,Difficulty deviation,ratings,primary,kruskal,28,7,10,11,0.8454155844155775,2.0,,0.6552700801627104,0.0,epsilon_squared,,0.6552700801627104,0.6552700801627104,False
+enjoyment_rating,Enjoyment,ratings,primary,kruskal,28,7,10,11,3.233307581585594,2.0,,0.19856201871677484,0.049332303263423756,epsilon_squared,,0.5956860561503245,0.5956860561503245,False
+frustration_rating,Frustration,ratings,secondary,kruskal,28,7,10,11,2.208552773193648,2.0,,0.33145063761028604,0.008342110927745915,epsilon_squared,,,0.33145063761028604,False

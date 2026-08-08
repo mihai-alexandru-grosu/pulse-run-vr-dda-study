@@ -1,0 +1,6 @@
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.15,<2
+matplotlib>=3.9,<4
+jupyterlab>=4.2,<5
+ipykernel>=6.29,<7

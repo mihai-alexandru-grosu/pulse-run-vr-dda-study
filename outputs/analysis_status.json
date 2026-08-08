@@ -1,0 +1,36 @@
+{
+  "analysis_status": "FINAL",
+  "raw_records": 38,
+  "analyzed_sessions": 28,
+  "group_sizes": {
+    "Fixed Time-Based": 7,
+    "Performance-Based DDA": 10,
+    "Skill-Specific DDA": 11
+  },
+  "complete_post_run_responses": 28,
+  "missing_complete_post_run_responses": 0,
+  "unresolved_review_records": 0,
+  "unresolved_run_ids": [],
+  "validation_errors": 0,
+  "validation_warnings": 7,
+  "nonestimable_primary_tests": [],
+  "active_duration_minimum_seconds": 209.0,
+  "target_headset": "Meta Quest 3",
+  "primary_outcomes": [
+    "hard_expert_pattern_pct",
+    "normalized_target_score_pct",
+    "wall_contact_pct",
+    "difficulty_deviation",
+    "enjoyment_rating"
+  ],
+  "secondary_outcomes": [
+    "total_patterns_spawned",
+    "resolved_targets",
+    "final_score",
+    "target_hit_rate_pct",
+    "shot_accuracy_pct",
+    "color_match_rate_pct",
+    "zero_stability_pct",
+    "frustration_rating"
+  ]
+}
